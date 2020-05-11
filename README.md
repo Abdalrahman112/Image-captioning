@@ -11,6 +11,7 @@ An encoder (of a mostly pretrained CNN model) encodes the image, then an RNN dec
 # Usage
 You can either run image_captioning_train.ipynb for training the whole thing from the start while having the option of changing the hyper parameters or image_captioing.ipynb for captioing any image by giving its path.
 In case you use the latter, make sure you have 'Encoder.hdf5','Decoder.hdf5' and 'tokenizer.pickle' downloaded. 
+the encoder and decoder can be found in release.
 
 
 # Architecture
