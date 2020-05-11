@@ -15,7 +15,16 @@ In case you use the latter, make sure you have 'Encoder.hdf5','Decoder.hdf5' and
 
 # Architecture
 This is a seq2seq neural network that uses teacher-forcing.
+This model doesn't use attention mechanism, which i might add later to another model
 Encoding is done through using inception_v3.
 Feel free to change any of the parameters found in the configuration cell like LSTM_size, encoding_size or even the number of samples this network trains on.
 
 # Example predictions
+![Prediction1](https://scontent.fcai1-2.fna.fbcdn.net/v/t1.15752-9/96286228_934101440372416_1710498101753544704_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=v68QTdYdXxQAX_N0Mrt&_nc_ht=scontent.fcai1-2.fna&oh=d10c6903515d3e2539f903b2b1d4422d&oe=5EDD55AE)
+
+![Prediction2](https://scontent.fcai1-2.fna.fbcdn.net/v/t1.15752-9/96266982_1181915348810137_520784176417341440_n.png?_nc_cat=102&_nc_sid=b96e70&_nc_ohc=YrZuEwnnEggAX-0IU7r&_nc_ht=scontent.fcai1-2.fna&oh=b74967c640a0bac85ac158464e186f4f&oe=5EDCEE2A)
+
+![Prediction3](https://scontent.fcai1-2.fna.fbcdn.net/v/t1.15752-9/96392008_167857181290825_8070821355429298176_n.png?_nc_cat=103&_nc_sid=b96e70&_nc_ohc=XGWgpK512-4AX_fL2BW&_nc_ht=scontent.fcai1-2.fna&oh=54799acaf57e58c650a89a14a02f9d24&oe=5EDE45C8)
+
+
+![Prediction4](https://scontent.fcai1-2.fna.fbcdn.net/v/t1.15752-9/96498039_2870854853005986_2413426455305256960_n.png?_nc_cat=106&_nc_sid=b96e70&_nc_ohc=RJCYRIdOLoAAX8rvjE4&_nc_ht=scontent.fcai1-2.fna&oh=7bb1ad4928a6a0a535e8b2836dfaa1a3&oe=5EDE868B)
