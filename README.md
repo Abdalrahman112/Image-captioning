@@ -16,7 +16,7 @@ the encoder and decoder can be found in release.
 
 # Architecture
 This is a seq2seq neural network that uses teacher-forcing.
-This model doesn't use attention mechanism, which i might add later to another model
+This model doesn't use attention mechanism, which i might add later in another model
 Encoding is done through using inception_v3.
 Feel free to change any of the parameters found in the configuration cell like LSTM_size, encoding_size or even the number of samples this network trains on.
 
