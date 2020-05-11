@@ -19,6 +19,13 @@ This model doesn't use attention mechanism, which i might add later to another m
 Encoding is done through using inception_v3.
 Feel free to change any of the parameters found in the configuration cell like LSTM_size, encoding_size or even the number of samples this network trains on.
 
+# Google colab links
+You can get the notebooks uploaded here via google colab through these links:
+
+[Training notebook](https://colab.research.google.com/drive/1VRQO7_r18a5rK68huvwKgNQOEGlzz3lm?usp=sharing)
+
+[Prediction notebook](https://colab.research.google.com/drive/1OQEMKfT5BrTJpOwu__2u_tmNs8ADeQ6v?usp=sharing)
+
 # Example predictions
 ![Prediction1](https://scontent.fcai1-2.fna.fbcdn.net/v/t1.15752-9/96286228_934101440372416_1710498101753544704_n.png?_nc_cat=100&_nc_sid=b96e70&_nc_ohc=v68QTdYdXxQAX_N0Mrt&_nc_ht=scontent.fcai1-2.fna&oh=d10c6903515d3e2539f903b2b1d4422d&oe=5EDD55AE)
 
