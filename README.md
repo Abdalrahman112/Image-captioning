@@ -1,2 +1,2 @@
 # Image-captioning
-A tensorflow 2.0 implementation with keras
+A tensorflow 2.0 with keras implementation 
