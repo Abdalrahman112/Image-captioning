@@ -35,7 +35,7 @@ You can get the notebooks uploaded here via google colab through these links:
 
 [Without attention prediction notebook](https://colab.research.google.com/drive/1OQEMKfT5BrTJpOwu__2u_tmNs8ADeQ6v?usp=sharing)
 
-[With attention prediction notebook](https://colab.research.google.com/drive/1Lz1vUFu2sx2AYWHJLSMwiG0V_ztdqEV2?usp=sharing)
+[With attention training notebook](https://colab.research.google.com/drive/1Lz1vUFu2sx2AYWHJLSMwiG0V_ztdqEV2?usp=sharing)
 
 [With attention prediction notebook](https://colab.research.google.com/drive/1KcpU8vEw7Sozu-SBGAgULaNgAFZYDzkh?usp=sharing)
 
